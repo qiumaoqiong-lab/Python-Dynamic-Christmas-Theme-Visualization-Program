@@ -4,7 +4,7 @@
 一个用 Python Turtle 实现的动态圣诞树可视化项目，绘制夜晚星空下的圣诞树效果。
 
 ## ✨ 项目效果
-![项目效果截图](images/tree.png)
+![项目效果截图](images/tree.png.png)
 
 ## 🛠️ 运行环境
 Python 3.x
